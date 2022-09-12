@@ -1,5 +1,6 @@
 # IBM-Project-445-1658301423
 Smart Solutions For Railways
+
 About the Smart Home Automation:
        The sensors connected to the microcontroller board are Smoke Detector, PIR, Ultrasonic  and LDR sensor. Smoke detector is used to sense the Gas,if gas is leaked 
        the Alarm circuit is active. The UltrasonicIs used for automatic open the front door if some someone is in front of the door. The PIR is used for detection of 
