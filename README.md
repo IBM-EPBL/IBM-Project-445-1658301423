@@ -2,4 +2,4 @@
 Smart Solutions For Railways
 
 
-We had completed all the task in time,but due to reallignment the task are submitted again.
+We had completed all the tasks in time,but due to reallignment the tasks are submitted again.
